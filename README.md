@@ -6,7 +6,7 @@ This page accompanies the MIDL 2025 poster presenting an automated pipeline for 
 ---
 
 ## 🎥 Poster Walkthrough Video  
-[Watch the video](https://your-video-link.com)  
+[Watch the video]([https://your-video-link.com](https://drive.google.com/file/d/10enFEudCaACqZ2_HZEyOMBluJ9hskh6A/view?usp=share_link))  
 
 ---
 
